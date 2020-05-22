@@ -1,1 +1,1 @@
-cd .. && node.exe latestFeaturesTestingSahilRajput\index.js && @pause
+cd .. && cd node-v14.3.0-win-x64/ && node.exe ..\nodeLatestFeaturesTestingSrajput\index.js && @pause
