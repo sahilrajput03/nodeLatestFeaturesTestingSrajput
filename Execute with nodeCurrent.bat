@@ -1,0 +1,1 @@
+cd .. && node.exe latestFeaturesTestingSahilRajput\index.js && @pause
